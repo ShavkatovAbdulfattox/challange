@@ -1,7 +1,5 @@
-import { useState } from "react";
+import SelectComponent from "./challenge-1/Select";
 
-function App() {
-  return <h1>Hello </h1>;
-}
+const App = () => <SelectComponent />;
 
 export default App;
